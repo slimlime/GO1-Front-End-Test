@@ -37,4 +37,4 @@ You will need to calculate distance between positions to achieve the required fu
 Include a map library to display location/events.
 Package your application in a Docker container.
 Achieve >80% test coverage.
-Impress us by adding something amazing that's not documented above.
+_Impress us by adding something amazing that's not documented above._
