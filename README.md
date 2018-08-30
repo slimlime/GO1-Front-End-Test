@@ -34,7 +34,7 @@ However do not feel constrained by this! If you are more confident in another fr
 You will need to calculate distance between positions to achieve the required functionality.  A library such as [TurfJS](http://turfjs.org/) will allow you to do make these calculations easily.
 
 ## Extra Credits
-Include a map library to display location/events.
-Package your application in a Docker container.
-Achieve >80% test coverage.
-_Impress us by adding something amazing that's not documented above._
+* Include a map library to display location/events.
+* Package your application in a Docker container.
+* Achieve >80% test coverage.
+* _Impress us by adding something amazing that's not documented above._
